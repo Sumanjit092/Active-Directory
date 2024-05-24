@@ -1,2 +1,2 @@
 # Active-Directory-Scripts
-This is Repository for Active Directory script
+This is repository for Active Directory script
