@@ -1,2 +1,2 @@
-# Group-Policy-Permission-Export
-Exporting Group Policy Permission Details
+# Active-Directory-Scripts
+This is Repository for Active Directory script
