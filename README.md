@@ -1,2 +1,2 @@
-# Active-Directory-Scripts
-This is repository for Active Directory script
+# Export-Group-Policy-Settings
+Exporting Group Policy Settings through Powershell Script
